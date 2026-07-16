@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "41778ad41a4068f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f932cf32d213c6cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d79a33af3abfb45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/blog/Coding Adventure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coding Adventure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26194fc3cc1ac98a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f7dc60f42ef5142",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70b1153864d32eb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f2b21d705881db12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "50b600fa46880b5b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f828e3c04232e3c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ba8b386326972a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "643f09acc57860c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/blog/Coding Adventure.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Coding Adventure"
+            }
+          },
+          {
+            "id": "3b7d20fd204cd1c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/content/blog/Coding Adventure.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Coding Adventure"
+            }
+          },
+          {
+            "id": "123e04d0b58a8e57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a24e3089910bc1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/blog/Coding Adventure.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Coding Adventure"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d79a33af3abfb45",
+  "lastOpenFiles": [
+    "src/assets/coding-placeholder.jpg",
+    "src/assets/Unconfirmed 223236.crdownload",
+    "src/assets/ppbox-2.gif",
+    "src/assets/Unconfirmed 985927.crdownload",
+    "src/assets/ppbox-1.gif",
+    "src/assets/Unconfirmed 951921.crdownload",
+    "src/assets/ppbox-1.png",
+    "ppbox-1.png",
+    "Pasted image 20260715233209.png",
+    "Pasted image 20260715233017.png",
+    "src/assets/sokoban-1.png",
+    "sokoban-1.png",
+    "src/content/blog/Coding Adventure.md",
+    "src/assets/achievements-1.png",
+    "src/assets/achievements-2.png",
+    "src/content/blog/third-post.md",
+    "src/content/blog/Untitled.md",
+    "src/content/blog/second-post.md",
+    "src/content/blog/markdown-style-guide.md",
+    "src/content/blog/first-post.md"
+  ]
+}
